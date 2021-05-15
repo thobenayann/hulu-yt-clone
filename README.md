@@ -44,7 +44,7 @@ Using Tailwind css was very helpfull and a fast way to develop this responsive a
 
 ## Links
 
-- Live Site URL: [hulu 2.0]()
+- Live Site URL: [hulu 2.0](https://hulu-v2-clone.netlify.app/)
 
 ## Author
 
