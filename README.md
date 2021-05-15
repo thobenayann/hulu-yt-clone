@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# "hulu 2.0" - clone full responsive movies app using Next.JS and Tailwind CSS
+
+This is a [Next.js](https://nextjs.org/) project launch with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+My goal was to practice Next.js and discover the latest features of Tailwind CSS, the idea comes from one of Sonny Sangha tutorial.
+
+## Table of contents
+
+- ["hulu 2.0" - clone full responsive movies app using Next.JS and Tailwind CSS](#hulu-20---clone-full-responsive-movies-app-using-nextjs-and-tailwind-css)
+  - [Table of contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+  - [About this project](#about-this-project)
+    - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Author](#author)
 
 ## Getting Started
 
-First, run the development server:
+To run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
+yarn run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## About this project
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+It's a clone of hulu app, like netflix.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+This project is full responsive, it means you can easely see it from mobile, table, desktop AND 4k screen.
 
-## Learn More
+Using Tailwind css was very helpfull and a fast way to develop this responsive app.
 
-To learn more about Next.js, take a look at the following resources:
+### Screenshot
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Desktop screenshot :
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![desktop-screenshot](./public/images/Hulu%202.0%20-%20desktop.jpg)
 
-## Deploy on Vercel
+- Mobile screenshot :
+  
+![mobile-screenshot](./public/images/Hulu%202.0%20-%20mobile.jpg)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Links
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Live Site URL: [hulu 2.0]()
+
+## Author
+
+- Website - [Yann Thobena](https://thobena-yann-developpeur-web.netlify.app/)
+- Linkedin - [Yann Thobena](https://www.linkedin.com/in/yannthobena/)

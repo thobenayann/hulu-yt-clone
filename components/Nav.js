@@ -5,7 +5,7 @@ function Nav() {
     const router = useRouter();
     return (
         <nav className="relative">
-            <div className="overflow-x-scroll flex px-10 sm:px-20 text-2xl whitespace-nowrap space-x-10 sm:space-x-20 scrollbar-hide">
+            <div className="overflow-y-hidden overflow-x-scroll flex px-10 sm:px-20 text-2xl whitespace-nowrap space-x-10 sm:space-x-20 scrollbar-hide">
                 {Object.entries(requests).map(([key, {title, url}]) => (
                     <h2
                     key={key}
